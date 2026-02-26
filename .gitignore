@@ -1,0 +1,4 @@
+// Ignore all files in the data/raw directory
+// Mostly the crimes.csv as it is very large
+data/raw/**
+!data/raw/.gitkeep
