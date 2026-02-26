@@ -2,3 +2,4 @@
 // Mostly the crimes.csv as it is very large
 data/raw/**
 !data/raw/.gitkeep
+Crimes_2021.csv
